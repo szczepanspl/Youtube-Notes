@@ -1,8 +1,8 @@
 
 # YouTube Notes Mozilla Extention
-<p>
+
 The **YouTube Notes** Mozilla addon is a powerful tool designed to help users learn new things from YouTube videos. With this addon, users can easily mark specific moments in a video and add notes to them, allowing them to quickly and easily refer back to important information.
-</p>
+
 
 ## How to Use
 <p>
