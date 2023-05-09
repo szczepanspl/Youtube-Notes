@@ -1,0 +1,10 @@
+body {
+    background-color: #444;
+    color: #fcfcf4
+}
+
+#popup-content {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
